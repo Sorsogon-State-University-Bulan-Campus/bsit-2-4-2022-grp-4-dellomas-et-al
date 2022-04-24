@@ -1,6 +1,7 @@
-# <Project title>
-  description
+## Title of Project
   
- # (with github username
+  Brief description
+  
+ # (with github username)
   
   - Juan Dela Cruz
