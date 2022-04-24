@@ -1,6 +1,6 @@
-#<Project title>
+# <Project title>
   description
   
- #(with github username
+ # (with github username
   
   - Juan Dela Cruz
